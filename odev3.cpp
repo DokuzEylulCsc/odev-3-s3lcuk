@@ -1,3 +1,6 @@
+// Selçuk Demir
+// 2018280013
+
 #include <iostream>
 #include <string>
 #include <fstream>
