@@ -1,5 +1,6 @@
 // Selçuk Demir
 // 2018280013
+// C++11 desktekleyen compiler kullanılmalıdır.
 
 #include <iostream>
 #include <string>
